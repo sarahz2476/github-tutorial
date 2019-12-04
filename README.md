@@ -5,7 +5,7 @@ _by Sarah Zhang_
 ---
 ## Git vs. GitHub
 
-Git is a version control where it can track your changes for your code.Version control is a system that helps save projects and log all the changes made therefore the user can go back and check their progress.
+Git is a version control where it can track your changes for your code. Version control is a system that helps save projects and log all the changes made therefore the user can go back and check their progress.
 
 Github is designed to host your Git repository. It help you save and share your git projects and can also let you control you code outside yout local computer.
 
@@ -31,7 +31,7 @@ Setting up IDE
 7. After that make a README file [touch README.md]
 8. Open it [c9 README.md]
 9. Type what ever you need
-10. Git add the file. [git add README.md]MAKE SURE WHATEVER CHANGES MADE ARE SAVED USE COMMAND+S, IF NOT SAVED.
+10. Git add the file. [git add README.md] MAKE SURE WHATEVER CHANGES MADE ARE SAVED USE COMMAND+S, IF NOT SAVED.
 11. Then commit it [git commit -m ""]. Put an message inside the quote.
 12. Remember teh code that was copy, now paste it
 13. For every change, you make you need to git add, git commit, and use git push to make sure the changes are saved in the github repository
