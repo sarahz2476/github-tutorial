@@ -33,7 +33,7 @@ Setting up IDE
 9. Type what ever you need
 10. Git add the file. [git add README.md] MAKE SURE WHATEVER CHANGES MADE ARE SAVED USE COMMAND+S, IF NOT SAVED.
 11. Then commit it [git commit -m ""]. Put an message inside the quote.
-12. Remember teh code that was copy, now paste it
+12. Remember the code that was copy, now paste it
 13. For every change, you make you need to git add, git commit, and use git push to make sure the changes are saved in the github repository
 
 ---
