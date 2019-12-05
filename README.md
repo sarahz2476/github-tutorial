@@ -39,6 +39,14 @@ Setting up IDE
 ---
 ## Workflow & Commands
 
+mkdir: make directory
+
+cd: change directory
+
+touch: make file
+
+git init: initilize
+
 git save: saves your work
 
 git add: adds your work to your repo
@@ -46,3 +54,4 @@ git add: adds your work to your repo
 git commit: saves changes to local repository
 
 git push: sends everything to your local repo
+
